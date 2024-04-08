@@ -1,102 +1,112 @@
 [
   {
-    "nome": "Trekking do Vale do Pati",
-    "cidade_estado": "Chapada Diamantina, Bahia",
+    "nomeTrilha": "Trekking do Vale do Pati",
+    "cidade": "Andaraí",
+    "estado": "BA",
     "duracao": "4 dias",
-    "trajeto": "Circular",
+    "trajeto": "15 Km",
     "dificuldade": "Moderada",
-    "tipo_trilha": "Travessia",
-    "criador_trilha": "João da Silva",
-    "imagem_url": "https://pixabay.com/get/g9fec9cb8076a1f0533c702d4e42c5fd0d49625cc152a18a36f4c40560f96513b19c7164020d5c608205550d9ffc7f36d0a1dd698a64f5cba0e8287efdb70714c_1280.jpg"
+    "tipo": "Travessia",
+    "nomeUsuario": "João da Silva",
+    "urlImagem": "./public/img/trilhas/Vale_do_Pati.jpg"
   },
   {
-    "nome": "Travessia Petrópolis–Teresópolis",
-    "cidade_estado": "Petrópolis, Rio de Janeiro",
+    "nomeTrilha": "Travessia Petrópolis–Teresópolis",
+    "cidade": "Petrópolis",
+    "estado": "RJ",
     "duracao": "2 dias",
-    "trajeto": "Linear",
+    "trajeto": "30 Km",
     "dificuldade": "Alta",
-    "tipo_trilha": "Travessia",
-    "criador_trilha": "Maria Oliveira",
-    "imagem_url": "https://pixabay.com/get/ga5b1f6cf97a1aeba91cba59bee7013c7cc5212ecab680ea50b731b3cba910007ff0b101fdc7864016f99558b1801fe71aceb8d5e7fe0581101712583f4d20df5_1280.jpg"
+    "tipo": "Travessia",
+    "nomeUsuario": "Maria Oliveira",
+    "urlImagem": "./public/img/trilhas/Petropolis-Teresopolis.jpg"
   },
   {
-    "nome": "Trekking no Rio do Boi",
-    "cidade_estado": "Aparados da Serra, Santa Catarina",
+    "nomeTrilha": "Trekking no Rio do Boi",
+    "cidade": "Praia Grande",
+    "estado": "SC",
     "duracao": "1 dia",
-    "trajeto": "Ida e volta",
+    "trajeto": "14 Km",
     "dificuldade": "Alta",
-    "tipo_trilha": "Aventura",
-    "criador_trilha": "José Silva",
-    "imagem_url": "https://pixabay.com/get/ga86dd54a84e874d8d1d3dd14c2312a43d046ba016ca65d47dee8e0fc642b4f5512759e7ec8f3022e8be8881a01dd54a4ea30c91aacc5e2a980d67f143c52717e_1280.jpg"
+    "tipo": "Aventura",
+    "nomeUsuario": "José Silva",
+    "urlImagem": "./public/img/trilhas/Rio_Do_Boi.jpg"
   },
   {
-    "nome": "Trilha do Ouro",
-    "cidade_estado": "Serra da Bocaina, São Paulo",
+    "nomeTrilha": "Trilha do Ouro",
+    "cidade": "São José do Barreiro",
+    "estado": "SP",
     "duracao": "3 dias",
-    "trajeto": "Circular",
+    "trajeto": "70 Km",
     "dificuldade": "Moderada",
-    "tipo_trilha": "Histórica",
-    "criador_trilha": "Ana Santos",
-    "imagem_url": "https://pixabay.com/get/gf6d00ceebdfb48e0d135cf9e7460a1e2637ea1c1818157d7ff6663310b755e34f2ca2cac0eb55d6c3ad2ac77f9fb5fd6_1280.jpg"
+    "tipo": "Histórica",
+    "nomeUsuario": "Ana Santos",
+    "urlImagem": "./public/img/trilhas/Trilha_Do_Ouro.jpg"
   },
   {
-    "nome": "Travessia da Ponta da Joatinga",
-    "cidade_estado": "Paraty, Rio de Janeiro",
+    "nomeTrilha": "Travessia da Ponta da Joatinga",
+    "cidade": "Paraty",
+    "estado": "RJ",
     "duracao": "2 dias",
-    "trajeto": "Circular",
+    "trajeto": "23 Km",
     "dificuldade": "Moderada",
-    "tipo_trilha": "Travessia",
-    "criador_trilha": "Pedro Costa",
-    "imagem_url": "https://pixabay.com/get/g0ba806a03e27922c225beeba90a7981696349a8e67dd0eecd5ae869a646ad5ef7819d26800e180ee2ad5d223e79dd5f893fd584e14d82f87ad432b9ac5ec3355_1280.jpg"
+    "tipo": "Travessia",
+    "nomeUsuario": "Pedro Costa",
+    "urlImagem": "./public/img/trilhas/Ponta_da_Joatinga.jpg"
   },
   {
-    "nome": "Pico das Agulhas Negras e Prateleiras",
-    "cidade_estado": "Parque Nacional do Itatiaia, Rio de Janeiro",
+    "nomeTrilha": "Pico das Agulhas Negras e Prateleiras",
+    "cidade": "Itatiaia",
+    "estado": "RJ",
     "duracao": "1 dia",
-    "trajeto": "Circular",
+    "trajeto": "25 Km",
     "dificuldade": "Alta",
-    "tipo_trilha": "Montanhismo",
-    "criador_trilha": "Mariana Souza",
-    "imagem_url": "https://pixabay.com/get/g1565852be72a81fd8a2955241d3e0aef3e72b09d45be7ded1224a4a8f32e5a991f0566e13612bdf055d94c40c054779d_1280.jpg"
+    "tipo": "Montanhismo",
+    "nomeUsuario": "Mariana Souza",
+    "urlImagem": "./public/img/trilhas/Pico_das_Agulhas.jpg"
   },
   {
-    "nome": "Travessia dos Lençóis Maranhenses",
-    "cidade_estado": "Parque Nacional dos Lençóis Maranhenses, Maranhão",
+    "nomeTrilha": "Travessia dos Lençóis Maranhenses",
+    "cidade": "Barreirinhas",
+    "estado": "MA",
     "duracao": "3 dias",
-    "trajeto": "Circular",
+    "trajeto": "12 Km",
     "dificuldade": "Moderada",
-    "tipo_trilha": "Travessia",
-    "criador_trilha": "Fernando Oliveira",
-    "imagem_url": "https://pixabay.com/get/gc5f683a606cb3400a498c5bab36c64522c1a52dd84093935c9bf208498eeb3a691a8a60022036657ec363672ef678f4e3116f021346981fa8f438eb37b3021ae_1280.jpg"
+    "tipo": "Travessia",
+    "nomeUsuario": "Fernando Oliveira",
+    "urlImagem": "./public/img/trilhas/Lencois_Maranhenses.jpg"
   },
   {
-    "nome": "Trekking do Descobrimento",
-    "cidade_estado": "Bahia",
-    "duracao": "4 dias",
-    "trajeto": "Circular",
+    "nomeTrilha": "Trekking do Descobrimento",
+    "cidade": "Cumuruxatiba",
+    "estado": "BA",
+    "duracao": "5 dias",
+    "trajeto": "80 Km",
     "dificuldade": "Moderada",
-    "tipo_trilha": "Histórica",
-    "criador_trilha": "Carla Lima",
-    "imagem_url": "https://pixabay.com/get/gc28a8f7f4477dba97ff1bb85a99209beef80f4c35601ed89bec64989d5f5799ddc4ab4be715aae94ebb04c91520f122d1cf3e4ae7254a44debdab90f9b78bf09_1280.jpg"
+    "tipo": "Histórica",
+    "nomeUsuario": "Carla Lima",
+    "urlImagem": "./public/img/trilhas/Descobrimento.jpg"
   },
   {
-    "nome": "Travessia Cassino–Chuí",
-    "cidade_estado": "Chuí, Rio Grande do Sul",
+    "nomeTrilha": "Travessia Cassino–Chuí",
+    "cidade": "Chuí",
+    "estado": "RS",
+    "duracao": "8 dias",
+    "trajeto": "223 Km",
+    "dificuldade": "Moderada",
+    "tipo": "Travessia",
+    "nomeUsuario": "Rafael Santos",
+    "urlImagem": "./public/img/trilhas/Cassino.jpg"
+  },
+  {
+    "nomeTrilha": "Travessia Marins–Itaguaré",
+    "cidade": "Bragança Paulista",
+    "estado": "SP",
     "duracao": "2 dias",
-    "trajeto": "Linear",
-    "dificuldade": "Moderada",
-    "tipo_trilha": "Travessia",
-    "criador_trilha": "Rafael Santos",
-    "imagem_url": "https://pixabay.com/get/g2c58ac70be62eb2422d00e3d62e0697035fa1f14f4386ee0652c6f3c8be1fbc59ced643b63a7b29250e939c0426c0ba05144a2d0aa004c03363225245d34efaf_1280.jpg"
-  },
-  {
-    "nome": "Travessia Marins–Itaguaré",
-    "cidade_estado": "Serra da Mantiqueira, São Paulo",
-    "duracao": "2 dias",
-    "trajeto": "Circular",
+    "trajeto": "15 Km",
     "dificuldade": "Alta",
-    "tipo_trilha": "Travessia",
-    "criador_trilha": "Lucas Oliveira",
-    "imagem_url": "https://pixabay.com/get/gcae3f5d82ed78e5bf644b28aad0bd94dd0fae216b7dbf764ef692ce1c4ca5c5b8d3d7e01a9a58fa202bae77947df2ab80019acd78c0737cce0593e14231de0d9_1280.jpg"
+    "tipo": "Travessia",
+    "nomeUsuario": "Lucas Oliveira",
+    "urlImagem": "./public/img/trilhas/Marins.jpg"
   }
 ]
