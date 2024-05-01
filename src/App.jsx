@@ -1,4 +1,5 @@
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 import { Outlet } from "react-router-dom";
 import { TrilhasContextProvider } from "./context/TrilhasContext";
 import { ThemeProvider, createTheme } from "@mui/material";
@@ -20,6 +21,7 @@ function App() {
    <ThemeProvider theme={theme}>
     <Header />
     <Outlet />
+    <Footer />
    </ThemeProvider>
   </TrilhasContextProvider>
  );
