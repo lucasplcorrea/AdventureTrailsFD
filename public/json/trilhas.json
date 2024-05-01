@@ -8,7 +8,7 @@
     "dificuldade": "Moderada",
     "tipo": "Travessia",
     "nomeUsuario": "João da Silva",
-    "urlImagem": "./public/img/trilhas/Vale_do_Pati.jpg"
+    "urlImagem": "./img/trilhas/Vale_do_Pati.jpg"
   },
   {
     "nomeTrilha": "Travessia Petrópolis–Teresópolis",
@@ -19,7 +19,7 @@
     "dificuldade": "Alta",
     "tipo": "Travessia",
     "nomeUsuario": "Maria Oliveira",
-    "urlImagem": "./public/img/trilhas/Petropolis-Teresopolis.jpg"
+    "urlImagem": "./img/trilhas/Petropolis-Teresopolis.jpg"
   },
   {
     "nomeTrilha": "Trekking no Rio do Boi",
@@ -30,7 +30,7 @@
     "dificuldade": "Alta",
     "tipo": "Aventura",
     "nomeUsuario": "José Silva",
-    "urlImagem": "./public/img/trilhas/Rio_Do_Boi.jpg"
+    "urlImagem": "./img/trilhas/Rio_Do_Boi.jpg"
   },
   {
     "nomeTrilha": "Trilha do Ouro",
@@ -41,7 +41,7 @@
     "dificuldade": "Moderada",
     "tipo": "Histórica",
     "nomeUsuario": "Ana Santos",
-    "urlImagem": "./public/img/trilhas/Trilha_Do_Ouro.jpg"
+    "urlImagem": "./img/trilhas/Trilha_Do_Ouro.jpg"
   },
   {
     "nomeTrilha": "Travessia da Ponta da Joatinga",
@@ -52,7 +52,7 @@
     "dificuldade": "Moderada",
     "tipo": "Travessia",
     "nomeUsuario": "Pedro Costa",
-    "urlImagem": "./public/img/trilhas/Ponta_da_Joatinga.jpg"
+    "urlImagem": "./img/trilhas/Ponta_da_Joatinga.jpg"
   },
   {
     "nomeTrilha": "Pico das Agulhas Negras e Prateleiras",
@@ -63,7 +63,7 @@
     "dificuldade": "Alta",
     "tipo": "Montanhismo",
     "nomeUsuario": "Mariana Souza",
-    "urlImagem": "./public/img/trilhas/Pico_das_Agulhas.jpg"
+    "urlImagem": "./img/trilhas/Pico_das_Agulhas.jpg"
   },
   {
     "nomeTrilha": "Travessia dos Lençóis Maranhenses",
@@ -74,7 +74,7 @@
     "dificuldade": "Moderada",
     "tipo": "Travessia",
     "nomeUsuario": "Fernando Oliveira",
-    "urlImagem": "./public/img/trilhas/Lencois_Maranhenses.jpg"
+    "urlImagem": "./img/trilhas/Lencois_Maranhenses.jpg"
   },
   {
     "nomeTrilha": "Trekking do Descobrimento",
@@ -85,7 +85,7 @@
     "dificuldade": "Moderada",
     "tipo": "Histórica",
     "nomeUsuario": "Carla Lima",
-    "urlImagem": "./public/img/trilhas/Descobrimento.jpg"
+    "urlImagem": "./img/trilhas/Descobrimento.jpg"
   },
   {
     "nomeTrilha": "Travessia Cassino–Chuí",
@@ -96,7 +96,7 @@
     "dificuldade": "Moderada",
     "tipo": "Travessia",
     "nomeUsuario": "Rafael Santos",
-    "urlImagem": "./public/img/trilhas/Cassino.jpg"
+    "urlImagem": "./img/trilhas/Cassino.jpg"
   },
   {
     "nomeTrilha": "Travessia Marins–Itaguaré",
@@ -107,6 +107,6 @@
     "dificuldade": "Alta",
     "tipo": "Travessia",
     "nomeUsuario": "Lucas Oliveira",
-    "urlImagem": "./public/img/trilhas/Marins.jpg"
+    "urlImagem": "./img/trilhas/Marins.jpg"
   }
 ]
