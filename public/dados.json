@@ -1,37 +1,114 @@
 {
-    "trilhas": [
-      {
-        "nomeTrilha": "Trilha da Costa da Lagoa",
-        "cidade": "Florianópolis",
-        "estado": "SC",
-        "duracao": 120,
-        "trajeto": 4,
-        "dificuldade": "iniciante",
-        "tipo": "caminhada / trekking",
-        "nomeUsuario": "Guilherme André",
-        "urlImagem": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      },
-      {
-        "nomeTrilha": "Trilha do Morro das Aranhas",
-        "cidade": "Florianópolis",
-        "estado": "SC",
-        "duracao": 120,
-        "trajeto": 4,
-        "dificuldade": "iniciante",
-        "tipo": "caminhada / trekking",
-        "nomeUsuario": "Guilherme André",
-        "urlImagem": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      },
-      {
-        "nomeTrilha": "Trilha Caminho da Gurita",
-        "cidade": "Florianópolis",
-        "estado": "SC",
-        "duracao": 120,
-        "trajeto": 4,
-        "dificuldade": "iniciante",
-        "tipo": "caminhada / trekking",
-        "nomeUsuario": "Guilherme André",
-        "urlImagem": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      }
-    ]
-  }
+  "trilhas": [
+    {
+      "nomeTrilha": "Trekking do Vale do Pati",
+      "cidade": "Andaraí",
+      "estado": "BA",
+      "duracao": "4 dias",
+      "trajeto": "15 Km",
+      "dificuldade": "Moderada",
+      "tipo": "Travessia",
+      "nomeUsuario": "João da Silva",
+      "urlImagem": "./img/trilhas/Vale_do_Pati.jpg"
+    },
+    {
+      "nomeTrilha": "Travessia Petrópolis–Teresópolis",
+      "cidade": "Petrópolis",
+      "estado": "RJ",
+      "duracao": "2 dias",
+      "trajeto": "30 Km",
+      "dificuldade": "Alta",
+      "tipo": "Travessia",
+      "nomeUsuario": "Maria Oliveira",
+      "urlImagem": "./img/trilhas/Petropolis-Teresopolis.jpg"
+    },
+    {
+      "nomeTrilha": "Trekking no Rio do Boi",
+      "cidade": "Praia Grande",
+      "estado": "SC",
+      "duracao": "1 dia",
+      "trajeto": "14 Km",
+      "dificuldade": "Alta",
+      "tipo": "Aventura",
+      "nomeUsuario": "José Silva",
+      "urlImagem": "./img/trilhas/Rio_Do_Boi.jpg"
+    },
+    {
+      "nomeTrilha": "Trilha do Ouro",
+      "cidade": "São José do Barreiro",
+      "estado": "SP",
+      "duracao": "3 dias",
+      "trajeto": "70 Km",
+      "dificuldade": "Moderada",
+      "tipo": "Histórica",
+      "nomeUsuario": "Ana Santos",
+      "urlImagem": "./img/trilhas/Trilha_Do_Ouro.jpg"
+    },
+    {
+      "nomeTrilha": "Travessia da Ponta da Joatinga",
+      "cidade": "Paraty",
+      "estado": "RJ",
+      "duracao": "2 dias",
+      "trajeto": "23 Km",
+      "dificuldade": "Moderada",
+      "tipo": "Travessia",
+      "nomeUsuario": "Pedro Costa",
+      "urlImagem": "./img/trilhas/Ponta_da_Joatinga.jpg"
+    },
+    {
+      "nomeTrilha": "Pico das Agulhas Negras e Prateleiras",
+      "cidade": "Itatiaia",
+      "estado": "RJ",
+      "duracao": "1 dia",
+      "trajeto": "25 Km",
+      "dificuldade": "Alta",
+      "tipo": "Montanhismo",
+      "nomeUsuario": "Mariana Souza",
+      "urlImagem": "./img/trilhas/Pico_das_Agulhas.jpg"
+    },
+    {
+      "nomeTrilha": "Travessia dos Lençóis Maranhenses",
+      "cidade": "Barreirinhas",
+      "estado": "MA",
+      "duracao": "3 dias",
+      "trajeto": "12 Km",
+      "dificuldade": "Moderada",
+      "tipo": "Travessia",
+      "nomeUsuario": "Fernando Oliveira",
+      "urlImagem": "./img/trilhas/Lencois_Maranhenses.jpg"
+    },
+    {
+      "nomeTrilha": "Trekking do Descobrimento",
+      "cidade": "Cumuruxatiba",
+      "estado": "BA",
+      "duracao": "5 dias",
+      "trajeto": "80 Km",
+      "dificuldade": "Moderada",
+      "tipo": "Histórica",
+      "nomeUsuario": "Carla Lima",
+      "urlImagem": "./img/trilhas/Descobrimento.jpg"
+    },
+    {
+      "nomeTrilha": "Travessia Cassino–Chuí",
+      "cidade": "Chuí",
+      "estado": "RS",
+      "duracao": "8 dias",
+      "trajeto": "223 Km",
+      "dificuldade": "Moderada",
+      "tipo": "Travessia",
+      "nomeUsuario": "Rafael Santos",
+      "urlImagem": "./img/trilhas/Cassino.jpg"
+    },
+    {
+      "nomeTrilha": "Travessia Marins–Itaguaré",
+      "cidade": "Bragança Paulista",
+      "estado": "SP",
+      "duracao": "2 dias",
+      "trajeto": "15 Km",
+      "dificuldade": "Alta",
+      "tipo": "Travessia",
+      "nomeUsuario": "Lucas Oliveira",
+      "urlImagem": "./img/trilhas/Marins.jpg"
+    }
+  ]
+}

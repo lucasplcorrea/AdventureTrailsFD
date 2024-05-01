@@ -1,7 +1,8 @@
 import { styled } from "@mui/system";
 
 export const PageTitle = styled("h1")({
- margin: "4rem 0"
+ margin: "4rem 0",
+ color: "#504908"
 });
 
 export const Container = styled("div")({

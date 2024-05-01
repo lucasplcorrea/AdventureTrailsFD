@@ -11,10 +11,10 @@ function Footer() {
         </Link>
       </div>
       <div className={styles.rightContent}>
-        <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className={styles.socialIcon}>
+        <a href="https://www.linkedin.com/in/lucasplcorrea/" target="_blank" rel="noopener noreferrer" className={styles.socialIcon}>
           <span className={styles.linkedinIcon}></span>
         </a>
-        <a href="https://github.com" target="_blank" rel="noopener noreferrer" className={styles.socialIcon}>
+        <a href="https://github.com/lucasplcorrea" target="_blank" rel="noopener noreferrer" className={styles.socialIcon}>
           <span className={styles.githubIcon}></span>
         </a>
       </div>
