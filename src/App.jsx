@@ -1,27 +1,28 @@
-import React from 'react';
-import useFetch from './Hooks/useFetch'; 
-import CardTrilha from './components/CardTrilha'; 
-import './App.css';
+import Header from "./components/Header";
+import { Outlet } from "react-router-dom";
+import { TrilhasContextProvider } from "./context/TrilhasContext";
+import { ThemeProvider, createTheme } from "@mui/material";
+
+const theme = createTheme({
+ palette: {
+  primary: {
+   main: "#504908"
+  },
+  secondary: {
+   main: "#D8E3D2"
+  }
+ }
+});
 
 function App() {
-  const { data, loading, error } = useFetch('/json/trilhas.json'); 
-
-  if (loading) {
-    return <div>Carregando...</div>; 
-  }
-
-  if (error) {
-    return <div>Erro: {error.message}</div>; 
-  }
-
-  return (
-    <div className="container">
-      <h1 className="titulo">Explore Trilhas Incríveis</h1>
-      {data.map((trilha, index) => (
-        <CardTrilha dadosTrilha={trilha} key={index} /> 
-      ))}
-    </div>
-  );
+ return (
+  <TrilhasContextProvider>
+   <ThemeProvider theme={theme}>
+    <Header />
+    <Outlet />
+   </ThemeProvider>
+  </TrilhasContextProvider>
+ );
 }
 
 export default App;

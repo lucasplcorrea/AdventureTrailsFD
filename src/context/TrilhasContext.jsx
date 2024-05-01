@@ -1,5 +1,5 @@
 import { createContext, useState, useEffect } from "react";
-import useFetch from "../Hooks/useFetch";
+import useFetch from "../hooks/useFetch";
 
 export const TrilhasContext = createContext();
 

@@ -12,7 +12,6 @@ import { TrilhasContext } from "../../context/TrilhasContext";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@mui/material";
 
-
 function PaginaCadastroTrilha() {
  const {
   register,
